@@ -1,12 +1,13 @@
-# olympic-sql-analysis
+# Olympic-sql-analysis
 I conducted a comprehensive case study on a dataset that contained information about all Olympic games played from Athens 1896 to Rio 2016. The dataset includes two main tables: olympics_history and noc_regions.
 
 ## Dataset Information
 Dataset Source: [Kaggle - 120 Years of Olympic History (Athletes and Results)](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 Tables:
-- olympics_history: Individual athlete information in Olympic events.
+- athlete_events: Individual athlete information in Olympic events.
 - noc_regions: National Olympics participant and their regions.
+  
 ### Dataset overview
 athlete_events.csv:
  - Total Rows: 271117
