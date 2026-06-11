@@ -11,6 +11,7 @@ Tables:
  - Total Rows: 271117
  - Total Columns: 15
  - Each row corresponds to an individual athlete competing in an Olympic event.
+   
 | Column | Description |
 |---------|------------|
 |ID	| Unique number for each athlete |
