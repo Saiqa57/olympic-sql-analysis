@@ -41,7 +41,7 @@ noc_regions.csv:
 | Region |	Region name |
 | Notes |	Additional information about the region |
 
-## 20 Questions in which I used advance SQL Topics
+## 15 Questions in which I used advance SQL Topics
 From the dataset, I explored the following 20 questions utilizing MySQL:
 
 1. How many Olympic games have been held?
