@@ -3,11 +3,12 @@ I conducted a comprehensive case study on a dataset that contained information a
 
 ## Dataset Information
 Dataset Source: [Kaggle - 120 Years of Olympic History (Athletes and Results)](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+
 Tables:
 - olympics_history: Individual athlete information in Olympic events.
 - noc_regions: National Olympics participant and their regions.
 ### Dataset overview
-- athlete_events.csv:
+athlete_events.csv:
  - Total Rows: 271117
  - Total Columns: 15
  - Each row corresponds to an individual athlete competing in an Olympic event.
@@ -30,7 +31,7 @@ Tables:
 |Event |	Event |
 |Medal |	Gold, Silver, Bronze, or NA |
 
--noc_regions
+noc_regions.csv:
  - Total Rows: 231
  - Total Columns: 3
 
